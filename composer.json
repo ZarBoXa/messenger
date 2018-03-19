@@ -1,0 +1,7 @@
+{
+    "name": "zarboxa/chatting",
+    "description": "laravel real time chatting",
+    "type": "library",
+    "minimum-stability": "dev",
+    "require": {}
+}
